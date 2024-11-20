@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-We are the Jilin Universtiy Large Language Model (LLM) Lab, established on the basis of Jilin University's Robot Dream Factory. We dedicate to explore artificial general intelligence (AGI) amd optimization of Large Multi-modal Models (LMM). Currently, we focus on the retrival augment generation (RAG) enhancement, Character LLM，LMM hallucination, optimization of vision encoder, and radiology report generation. Also, we concentrate on the application of LLM and we have a software team to promote the implementation of the resaerch project. Addtionally, our official account and Xiaohongshu will share daily article notes, host regular beginner-friendly study sessions, and occasionally share scientific research experiences. **If you want to study LLM or participate in our research, please follow our official account or contact us via email**.
+We are the Jilin Universtiy Large Language Model (LLM) Lab, established on the basis of Jilin University's Robot Dream Factory. We dedicate to explore artificial general intelligence (AGI) amd optimization of Large Multi-modal Models (LMM). Currently, we focus on the retrival augment generation (RAG) enhancement, Character LLM，LMM hallucination, optimization of vision encoder, and radiology report generation. Also, we concentrate on the application of LLM and we have a software team to promote the implementation of the resaerch project. Addtionally, our official account and Xiaohongshu will share daily article notes, host regular beginner-friendly study sessions, and occasionally share research experiences. **If you want to study LLM or participate in our research, please follow our official account or contact us via email**.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12.01*: &nbsp;🎉🎉 Datawhale & JLULLM successfully held the "AI+Programming" college tour event at Jilin University. 
+- *2022.11.16*: &nbsp;🎉🎉 The first JLULLM & Datawhale Companion Learning Activity, "Zero Foundation to Large Model Scientific Research and Practice", opened
 
 # 📝 Publications 
 
